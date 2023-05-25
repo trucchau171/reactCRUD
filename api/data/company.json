@@ -1,0 +1,902 @@
+[
+    {
+        "Time": "2021/3",
+        "Company": "Google",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Meta",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Amazon",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Paypal",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Zoom",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Doordash",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Carvana",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Cisco",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Twitter",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Better.com",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Peloton",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Snap",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Katerra",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Zillow",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/3",
+        "Company": "Instacart",
+        "NumberOfLayOff": 1.877
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Google",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Meta",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Amazon",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Paypal",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Zoom",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Doordash",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Carvana",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Cisco",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Twitter",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Better.com",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Peloton",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Snap",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Katerra",
+        "NumberOfLayOff": 2.434
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Zillow",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/6",
+        "Company": "Instacart",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Google",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Meta",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Amazon",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Paypal",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Zoom",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Doordash",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Carvana",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Cisco",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Twitter",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Better.com",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Peloton",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Snap",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Katerra",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Zillow",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/9",
+        "Company": "Instacart",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Google",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Meta",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Amazon",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Paypal",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Zoom",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Doordash",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Carvana",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Cisco",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Twitter",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Better.com",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Peloton",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Snap",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Katerra",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Zillow",
+        "NumberOfLayOff": 2
+    },
+    {
+        "Time": "2021/12",
+        "Company": "Instacart",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Google",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Meta",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Amazon",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Paypal",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Zoom",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Doordash",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Carvana",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Cisco",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Twitter",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Better.com",
+        "NumberOfLayOff": 3
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Peloton",
+        "NumberOfLayOff": 2.8
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Snap",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Katerra",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Zillow",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/3",
+        "Company": "Instacart",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Google",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Meta",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Amazon",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Paypal",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Zoom",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Doordash",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Carvana",
+        "NumberOfLayOff": 2.5
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Cisco",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Twitter",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Better.com",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Peloton",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Snap",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Katerra",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Zillow",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/6",
+        "Company": "Instacart",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Google",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Meta",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Amazon",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Paypal",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Zoom",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Doordash",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Carvana",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Cisco",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Twitter",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Better.com",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Peloton",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 1.5
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Snap",
+        "NumberOfLayOff": 1.28
+    },
+    {
+        "Time": "2022/9",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Katerra",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Zillow",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/9",
+        "Company": "Instacart",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Google",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Meta",
+        "NumberOfLayOff": 11
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Amazon",
+        "NumberOfLayOff": 10
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 1
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Paypal",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Zoom",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Doordash",
+        "NumberOfLayOff": 1.25
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Carvana",
+        "NumberOfLayOff": 4
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Cisco",
+        "NumberOfLayOff": 4.1
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Twitter",
+        "NumberOfLayOff": 3.7
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Better.com",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Peloton",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Snap",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 3
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Katerra",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Zillow",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2022/12",
+        "Company": "Instacart",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Google",
+        "NumberOfLayOff": 12
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Meta",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Microsoft",
+        "NumberOfLayOff": 10
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Amazon",
+        "NumberOfLayOff": 8
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Salesforce",
+        "NumberOfLayOff": 8
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Paypal",
+        "NumberOfLayOff": 2
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Yahoo",
+        "NumberOfLayOff": 1.6
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Zoom",
+        "NumberOfLayOff": 1.3
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Doordash",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Carvana",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Cisco",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Twitter",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Better.com",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Peloton",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Gopuff",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Snap",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "SeaGate",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Katerra",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Zillow",
+        "NumberOfLayOff": 0
+    },
+    {
+        "Time": "2023/3",
+        "Company": "Instacart",
+        "NumberOfLayOff": 0
+    }
+]
